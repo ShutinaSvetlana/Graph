@@ -1,0 +1,10 @@
+﻿  Adjacencies.cpp
+  MyForm.cpp
+  Node.cpp
+Node.cpp(41): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  TTree.cpp
+  Создание кода...
+f:\project\1-2 курс\projectgraphs\projectgraphs\ttree.cpp(45): warning C4715: TTree::Hit: значение возвращается не при всех путях выполнения
+  Adjacencies.obj : /DEBUG:FASTLINK не поддерживается, если присутствует управляемый код; выполняется перезапуск компоновки с /DEBUG:FULL
+  projectGraphs.vcxproj -> F:\project\1-2 курс\projectGraphs\Debug\projectGraphs.exe
+  projectGraphs.vcxproj -> F:\project\1-2 курс\projectGraphs\Debug\projectGraphs.pdb (Partial PDB)
